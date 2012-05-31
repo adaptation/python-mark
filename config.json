@@ -1,0 +1,12 @@
+{
+ "input_value_to_program": {"q1": "",
+ 		      "q2": "1",
+		      "q3": "1 2 3 4",
+		      "q4": "",
+		      "q5": "100 99 98 97 96 96"},
+  "check_question_number": [1,2,3,4,5],
+  "uploaded_directry": "Sets the string path to the directry uploaded students' code",
+  "answer_directry": "Sets the string path to the directry where the answer files",
+  "work_space": "Sets the string path to the work space directry",
+  "student_ID_list": "Sets the string path where the text file writen students' ID"
+}
